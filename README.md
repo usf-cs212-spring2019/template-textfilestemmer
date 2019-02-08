@@ -1,4 +1,4 @@
-Pretty JSON Writer
+Text File Stemmer
 =================================================
 
 For this homework assignment, you will create a class that is able to clean and parse text into stemmed words. Use `UTF8` when writing your files. See the Javadoc comments in the template code for additional details.
